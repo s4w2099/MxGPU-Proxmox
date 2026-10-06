@@ -1,5 +1,5 @@
 # MxGPU-Proxmox
-This repository contains Pre-compiled Proxmox VE Debian packages for AMD's MxGPU open source project (GIM) at https://github.com/amd/MxGPU-Virtualization.
+This repository contains tested Proxmox VE Debian packages for AMD's MxGPU open source project (GIM) at https://github.com/amd/MxGPU-Virtualization.
 
 To install a package in the host: 
 * Add the "No-Subscription" or the "Enterprise" repository if you have a valid subscription.
